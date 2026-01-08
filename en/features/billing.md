@@ -7,8 +7,9 @@ Subscription, payments, and invoices.
 | Plan | Price | Devices | Messages |
 |------|-------|---------|----------|
 | **Free** | Free | 1 | 1,000/mo |
-| **Pro** | $29/mo | 5 | 10,000/mo |
-| **Enterprise** | $99/mo | ∞ | 50,000/mo |
+| **Pro** | $2/mo | 5 | 5,000/mo |
+| **Enterprise** | $4/mo | ∞ | 10,000/mo |
+| **Unlimited** | $8/bln | ∞ | ∞ |
 
 ---
 

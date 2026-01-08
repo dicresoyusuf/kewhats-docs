@@ -7,7 +7,7 @@
 Akses halaman registrasi:
 
 ```
-https://app.kewhats.com/register
+https://kewhats.app/register
 ```
 
 ### Step 2: Isi Form Registrasi
@@ -38,7 +38,7 @@ Jika tidak menerima email, cek folder **Spam** atau **Promotions**.
 ### Step 1: Buka Halaman Login
 
 ```
-https://app.kewhats.com/login
+https://kewhats.app/login
 ```
 
 ### Step 2: Masukkan Credentials

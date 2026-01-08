@@ -38,7 +38,7 @@ Settings → API → Copy key
 ### 2. In n8n
 Add **HTTP Request** node:
 ```
-URL: https://app.kewhats.com/api/...
+URL: https://kewhats.app/api/...
 Headers:
   Authorization: Bearer YOUR_API_KEY
 ```

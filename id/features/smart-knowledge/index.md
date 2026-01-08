@@ -110,7 +110,8 @@ Toggle 🧠 untuk saran balasan dari knowledge base.
 ::: warning Batasan
 - Plan Free: 50 query/bulan
 - Plan Pro: 1,000 query/bulan
-- BYOK: Unlimited
+- Plan Enterprise: 5,000 query/bulan
+- Plan Unlimited: Unlimited query
 :::
 
 ---

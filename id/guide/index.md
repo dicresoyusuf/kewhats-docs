@@ -19,7 +19,7 @@ Ikuti langkah-langkah ini untuk memulai dalam **5 menit**:
 
 ### 1️⃣ Registrasi
 
-Buat akun di [app.kewhats.com](https://app.kewhats.com/register)
+Buat akun di [app.kewhats.com](https://kewhats.app/register)
 
 [Panduan lengkap →](./registration)
 
@@ -67,7 +67,7 @@ Test dengan mengirim pesan dari dashboard.
 ## Perlu Bantuan?
 
 - 📖 Jelajahi dokumentasi ini
-- 💬 Hubungi support: support@kewhats.com
+- 💬 Hubungi support: support@kewhats.app
 - 🎮 Join Discord community
 
 ---

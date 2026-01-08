@@ -82,6 +82,6 @@ Get key di: [aistudio.google.com](https://aistudio.google.com)
 | Plan | AI Calls/Month |
 |------|----------------|
 | Free | 100 |
-| Pro | 1,000 |
+| Pro | 5,000 |
 | Enterprise | 10,000 |
-| BYOK | Unlimited |
+| Unlimited | Unlimited |

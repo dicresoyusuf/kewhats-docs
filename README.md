@@ -62,7 +62,7 @@ Supports:
 
 ## 🚀 Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kewhats/kewhats-docs)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dicresoyusuf/kewhats-docs)
 
 Or manually:
 

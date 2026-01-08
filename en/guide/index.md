@@ -19,7 +19,7 @@ Follow these steps to get started in **5 minutes**:
 
 ### 1️⃣ Register
 
-Create an account at [app.kewhats.com](https://app.kewhats.com/register)
+Create an account at [app.kewhats.com](https://kewhats.app/register)
 
 [Full guide →](./registration)
 
@@ -67,7 +67,7 @@ Test by sending a message from the dashboard.
 ## Need Help?
 
 - 📖 Browse this documentation
-- 💬 Contact support: support@kewhats.com
+- 💬 Contact support: support@kewhats.app
 - 🎮 Join Discord community
 
 ---

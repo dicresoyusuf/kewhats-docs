@@ -96,9 +96,9 @@ Yes! The Free plan can be used forever with limitations of 1 device and 1000 mes
 
 ### How do I contact support?
 
-- 📧 Email: support@kewhats.com
-- 💬 WhatsApp: +62 812-xxxx-xxxx
-- 📖 Documentation: docs.kewhats.com
+- 📧 Email: support@kewhats.app
+- 💬 WhatsApp: +62 812-8515-9091
+- 📖 Documentation: docs.kewhats.app
 
 ### What's the support response time?
 
@@ -109,5 +109,5 @@ Yes! The Free plan can be used forever with limitations of 1 device and 1000 mes
 ---
 
 ::: tip Can't Find Your Answer?
-Contact us at support@kewhats.com
+Contact us at support@kewhats.app
 :::

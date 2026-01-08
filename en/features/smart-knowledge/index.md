@@ -86,5 +86,6 @@ Click **"Process"** to create embeddings.
 ::: warning Limits
 - Free Plan: 50 queries/month
 - Pro Plan: 1,000 queries/month
-- BYOK: Unlimited
+- Enterprise Plan: 5,000 queries/month
+- Unlimited Plan: Unlimited queries
 :::

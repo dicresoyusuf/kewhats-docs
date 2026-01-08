@@ -6,7 +6,7 @@ Complete REST API documentation for KeWhats integration with external systems.
 
 ::: code-group
 ```txt [Production]
-https://app.kewhats.com/api
+https://kewhats.app/api
 ```
 
 ```txt [Development]
@@ -71,7 +71,7 @@ Get your API Key at: **Settings → API**
 
 ::: code-group
 ```bash [cURL]
-curl -X POST https://app.kewhats.com/api/messages/send \
+curl -X POST https://kewhats.app/api/messages/send \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
@@ -82,7 +82,7 @@ curl -X POST https://app.kewhats.com/api/messages/send \
 ```
 
 ```javascript [JavaScript]
-const response = await fetch('https://app.kewhats.com/api/messages/send', {
+const response = await fetch('https://kewhats.app/api/messages/send', {
   method: 'POST',
   headers: {
     'Authorization': 'Bearer YOUR_API_KEY',
@@ -100,7 +100,7 @@ const response = await fetch('https://app.kewhats.com/api/messages/send', {
 import requests
 
 response = requests.post(
-    'https://app.kewhats.com/api/messages/send',
+    'https://kewhats.app/api/messages/send',
     headers={'Authorization': 'Bearer YOUR_API_KEY'},
     json={
         'deviceId': 'device_xxx',

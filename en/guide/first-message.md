@@ -34,7 +34,7 @@ Time to test sending your first message through KeWhats!
 ### Option 2: Via API
 
 ```bash
-curl -X POST https://app.kewhats.com/api/messages/send \
+curl -X POST https://kewhats.app/api/messages/send \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{

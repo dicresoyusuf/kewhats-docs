@@ -96,9 +96,9 @@ Ya! Plan Free bisa digunakan selamanya dengan batasan 1 device dan 1000 pesan/bu
 
 ### Bagaimana cara menghubungi support?
 
-- 📧 Email: support@kewhats.com
-- 💬 WhatsApp: +62 812-xxxx-xxxx
-- 📖 Dokumentasi: docs.kewhats.com
+- 📧 Email: support@kewhats.app
+- 💬 WhatsApp: +62 812-8515-9091
+- 📖 Dokumentasi: docs.kewhats.app
 
 ### Response time support berapa lama?
 
@@ -109,5 +109,5 @@ Ya! Plan Free bisa digunakan selamanya dengan batasan 1 device dan 1000 pesan/bu
 ---
 
 ::: tip Tidak Menemukan Jawaban?
-Hubungi kami di support@kewhats.com
+Hubungi kami di support@kewhats.app
 :::

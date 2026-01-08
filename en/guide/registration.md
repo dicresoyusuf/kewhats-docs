@@ -7,7 +7,7 @@
 Access the registration URL:
 
 ```
-https://app.kewhats.com/register
+https://kewhats.app/register
 ```
 
 ### Step 2: Fill Registration Form
@@ -38,7 +38,7 @@ If you don't receive the email, check your **Spam** or **Promotions** folder.
 ### Step 1: Open Login Page
 
 ```
-https://app.kewhats.com/login
+https://kewhats.app/login
 ```
 
 ### Step 2: Enter Credentials

@@ -7,8 +7,9 @@ Langganan, pembayaran, dan invoice.
 | Plan | Harga | Devices | Messages |
 |------|-------|---------|----------|
 | **Free** | Gratis | 1 | 1,000/bln |
-| **Pro** | Rp299k/bln | 5 | 10,000/bln |
-| **Enterprise** | Rp999k/bln | ∞ | 50,000/bln |
+| **Pro** | Rp20k/bln | 20 | 5,000/bln |
+| **Enterprise** | Rp50k/bln | ∞ | 10,000/bln |
+| **Unlimited** | Rp100k/bln | ∞ | ∞ |
 
 ---
 
